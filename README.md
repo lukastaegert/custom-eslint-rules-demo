@@ -2,6 +2,7 @@ Important resources
 ===
 
 # ESLint
+* [Integrate ESLint with your editor](https://eslint.org/docs/user-guide/integrations)
 * [How to implement rules](https://eslint.org/docs/developer-guide/working-with-rules)
 * [Selectors](https://eslint.org/docs/developer-guide/selectors)
 
