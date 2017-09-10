@@ -5,6 +5,7 @@
   "rules": {
     "local/no-unused-private-members": 2,
     "local/only-access-private-members-via-this": 2,
-    "local/no-unused-constructor-arguments": 2
+    "local/no-unused-constructor-arguments": 2,
+    "local/restrict-imports": 2
   }
 }

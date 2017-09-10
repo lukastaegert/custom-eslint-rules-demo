@@ -1,7 +1,3 @@
-import {TestClass} from './dependency'
+import {TestClass} from './dependency/dependency'
 
-class test {
-  constructor() {
-    this.x = 3
-  }
-}
+const test = new TestClass();
