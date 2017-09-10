@@ -1,7 +1,7 @@
 {
   "name": "custom-eslint-rules-demo",
   "version": "1.0.0",
-  "description": "How to add custom linting",
+  "description": "How to add custom linting to a project",
   "scripts": {
     "build": "babel src -d dist",
     "lint": "eslint src"
