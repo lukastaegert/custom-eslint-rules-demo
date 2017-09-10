@@ -1,0 +1,22 @@
+{
+  "name": "custom-eslint-rules-demo",
+  "version": "1.0.0",
+  "description": "How to add custom linting",
+  "scripts": {
+    "build": "babel src -d dist",
+    "lint": "eslint src"
+  },
+  "author": "Lukas Taegert",
+  "license": "MIT",
+  "babel": {
+    "plugins": [
+      "transform-es2015-modules-commonjs"
+    ]
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "eslint": "^4.6.1",
+    "eslint-plugin-local": "^1.0.0"
+  }
+}

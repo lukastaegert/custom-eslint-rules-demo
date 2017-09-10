@@ -1,0 +1,10 @@
+{
+  "env": {"es6": true},
+  "parserOptions": {"ecmaVersion": 6, "sourceType": "module"},
+  "plugins": ["local"],
+  "rules": {
+    "local/no-unused-private-members": 2,
+    "local/only-access-private-members-via-this": 2,
+    "local/no-unused-constructor-arguments": 2
+  }
+}
